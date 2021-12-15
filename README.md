@@ -5,6 +5,9 @@ Assignment completed in C++ for Computer Science 3005 at DSU (soon to be Utah Te
 * Use the Makefile in gui-src
 * Run the executable
 * Use the following chart for commands
+
+Key | Action
+------------- | -------------
 h | display the text "please work" to the terminal
 q/esc | quit program
 T | display Color Table
