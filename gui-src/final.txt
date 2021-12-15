@@ -1,0 +1,40 @@
+Calculate the escape count of a random point to zoom in on
+	Have a zoom in key that focuses in on a specific random location that has a high calculated escape count
+Pixelized noise?
+	Make it clearer when you zoom in
+	We currently have an escape radius of 2, if you increase the escape radius the pixelization goes away
+Sub Grid
+	Instead of calculating the escape point for one section, split it into sections and then calculate
+	Take the average of the RGB values and make that the color of the location
+	Makes the pixelized noise go away
+	Anti-aliasing
+Manipulting the color table
+	Pick a random color, use a formula to calculate the end point
+	HSV colors
+HSV
+	Calculate nice gradients
+	3 way slope calculation (Hue, value, saturation)
+	Different inputs
+	You need a conversion because the images are still diplayed in RGB
+Moving the end point of each gradient stop
+	Shift the colors over a spot (sliding left or right)
+	Kind of cool
+	RGB -> BRG
+Zoom by individual fractal frames
+	Save it out to make a video
+	Our code??
+	Generate a sequence of frames
+Move and zoom at the same time to an interesting point on the grid
+Accomplish things by holding down shift
+	Add a data member that will keep track of if shift is being held down or not (very similar to what I did with the instructions)
+New fractals??
+
+The exam is everything that we have covered in this class
+Unit tests??
+	GUI is manual
+	SRC code will have unit tests
+
+THINGS I WANT TO WORK ON
+	Exam 4 problems
+	HSV
+	Write an image from GUI as a ppm 
