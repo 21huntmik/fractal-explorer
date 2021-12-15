@@ -39,7 +39,7 @@ z | zooms out in Fractal Mode
 Z | zooms in in Fractal Mode
 R | resets plane in Fractal Mode
 = | increase max number in Fractal Mode
-- | decrease max number in Fractal Mode
+'-' | decrease max number in Fractal Mode
 J | displays pre-set Julia Set fractal
 j | displays pre-set Julia Set fractal
 M | displays pre-set Mandelbrot fractal
