@@ -16,7 +16,7 @@ T | display Color Table
 2 | change the RGB values for color 1
 @ | change the RBG values for color 2
 3 | change the RGB values for color 3
-# | change the RGB values for color 4
+'#' | change the RGB values for color 4
 Y | increases red value for chosen color
 y | decreases red value for chosen color
 U | increase green value for chosen color
